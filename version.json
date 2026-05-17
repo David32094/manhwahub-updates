@@ -1,6 +1,6 @@
-{
-    "versionCode": 1,
-    "versionName": "1.0",
-    "apkUrl": "https://github.com/David32094/manhwahub-updates/releases/download/v1.0/manhwahub-v1.0.apk",
-    "changelog": "- Corrección de errores\n- Nuevas funciones\n- Mejoras de rendimiento"
+﻿{
+    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v2/manhwahub-v2.apk",
+    "changelog":  "✨ ¡Adiós al scroll infinito para salir!Cabecera flotante: Actualizamos la barra superior de lectura. Ahora los botones de Volver y Reportar te acompañan en todo momento mientras bajas por la página. Podrás salir del manga al instante tocando la flecha, sin importar qué tan largo sea el capítulo.",
+    "versionCode":  2,
+    "versionName":  "2.0"
 }
