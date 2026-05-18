@@ -1,6 +1,6 @@
 ﻿{
-    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v8/manhwahub-v8.apk",
+    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v9/manhwahub-v9.apk",
     "changelog":  "Corrección de filtros de categorías, sincronización de géneros y visualización de versión en perfil.",
-    "versionCode":  8,
-    "versionName":  "8.0"
+    "versionCode":  9,
+    "versionName":  "9.0"
 }
