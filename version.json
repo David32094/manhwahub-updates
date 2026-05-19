@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v11/manhwahub-v11.apk",
+    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v12/manhwahub-v12.apk",
     "changelog":  "🚀 ¡Novedades en MHWA!📅 ¡Organización por Temporadas! Ahora verás los capítulos agrupados ordenadamente por su temporada correspondiente tanto en la lista de capítulos como en la cabecera del lector (ej. T3 - Capítulo 84).🔔 Notificaciones Inteligentes cada 15 min: La app ahora te avisará de forma automática en segundo plano cuando se estrene un nuevo capítulo de tus manhwas favoritos o cuando alguien responda a tus comentarios.⚡ Lector más rápido y optimizado: Corrección del orden de carga en capítulos especiales y extras, junto con una carga de páginas optimizada y ultra veloz.",
-    "versionCode":  11,
-    "versionName":  "11.0"
+    "versionCode":  12,
+    "versionName":  "12.0"
 }
