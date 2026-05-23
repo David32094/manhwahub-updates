@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v17/manhwahub-v17.apk",
-    "changelog":  "Mejoras y correcciones de errores",
-    "versionCode":  17,
-    "versionName":  "17.0"
+    "versionCode": 18,
+    "versionName": "18.0",
+    "apkUrl": "https://github.com/David32094/manhwahub-updates/releases/download/v18/manhwahub-v18.apk",
+    "changelog": "Persistencia de sesion, foto de perfil e historial local y en servidor"
 }
