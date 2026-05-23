@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v14/manhwahub-v14.apk",
-    "changelog":  "Nuevo Sistema de Reporte de Errores: ¿Encontraste un capítulo con páginas caídas o desordenadas? Ahora puedes reportarlo con el nuevo botón dentro del manhwa. El botón se quedará marcado para que sepas que ya lo reportaste.",
-    "versionCode":  14,
-    "versionName":  "14.0"
+    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v15/manhwahub-v15.apk",
+    "changelog":  "Mejoras y correcciones de errores",
+    "versionCode":  15,
+    "versionName":  "15.0"
 }
