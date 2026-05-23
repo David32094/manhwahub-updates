@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v15/manhwahub-v15.apk",
-    "changelog":  "Mejoras y correcciones de errores",
-    "versionCode":  15,
-    "versionName":  "15.0"
+    "versionCode": 16,
+    "versionName": "16.0",
+    "apkUrl": "https://github.com/David32094/manhwahub-updates/releases/download/v16/manhwahub-v16.apk",
+    "changelog": "Mejoras de conexion (CORS, cache bypass en WebView y sincronizacion robusta)"
 }
