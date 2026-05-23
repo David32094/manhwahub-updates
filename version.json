@@ -1,6 +1,6 @@
 {
-    "versionCode": 20,
-    "versionName": "20.0",
-    "apkUrl": "https://github.com/David32094/manhwahub-updates/releases/download/v20/manhwahub-v20.apk",
-    "changelog": "Corregido filtro de tendencias en la app e indexacion de Jinx"
+    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v21/manhwahub-v21.apk",
+    "changelog":  "Mejoras y correcciones de errores",
+    "versionCode":  21,
+    "versionName":  "21.0"
 }
