@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v24/manhwahub-v24.apk",
+    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v25/manhwahub-v25.apk",
     "changelog":  "Mejoras y correcciones de errores",
-    "sha256":  "a7b41c800dbdb624117cdaf31d168ab47516229d62ce23daacb5dd77291b1bed",
-    "versionCode":  24,
-    "versionName":  "24.0"
+    "sha256":  "25ca95988b73169efe32e454e62538294b7a713dccd029fba38f82b14449d914",
+    "versionCode":  25,
+    "versionName":  "25.0"
 }
