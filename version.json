@@ -1,7 +1,7 @@
 {
-    "versionCode":  26,
-    "versionName":  "26.0",
-    "apkUrl":  "https://raw.githubusercontent.com/David32094/manhwahub-updates/main/manhwahub-v26.apk",
-    "sha256":  "2f4475a8553682630936f7bdc902f40d5f3c9615b47081cdd2afd9b7ce950281",
-    "changelog":  "Correccion urgente: las imagenes, historial y favoritos vuelven a cargar aunque la app tuviera guardada una URL vieja del servidor."
+    "versionCode":  27,
+    "versionName":  "27.0",
+    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v27/manhwahub-v27.apk",
+    "sha256":  "94fce424967ad6c264cf91e8e328c1470b19cdd160b6e4045808fee0a91dbc43",
+    "changelog":  "Correccion del actualizador: descarga directa del APK, verificacion SHA-256 y apertura del instalador con aviso de permisos si Android lo requiere."
 }
