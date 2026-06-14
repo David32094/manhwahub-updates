@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v29/manhwahub-v29.apk",
+    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v30/manhwahub-v30.apk",
     "changelog":  "Mejoras y correcciones de errores",
-    "sha256":  "0698bbaceccbbbcfb84c5491d27e14272520d54f8c43aa4a33d1f99cc7d52456",
-    "versionCode":  29,
-    "versionName":  "29.0"
+    "sha256":  "a2471a18ee619abbe6fb78600df013dff72e8f6fbbef887cbfb5fc3a90e323ab",
+    "versionCode":  30,
+    "versionName":  "30.0"
 }
