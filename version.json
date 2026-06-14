@@ -1,7 +1,7 @@
 {
-    "versionCode":  28,
-    "versionName":  "28.0",
-    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v28/manhwahub-v28.apk",
-    "sha256":  "eac6cc019efd26d76e0b12888abd6fffbed1e4c703badb0b9f2f1679bc456cec",
-    "changelog":  "Correccion del reporte de anuncios: ahora el servidor guarda la imagen eliminada, no reaparece al volver al capitulo y la app avisa si el reporte falla."
+    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v29/manhwahub-v29.apk",
+    "changelog":  "Mejoras y correcciones de errores",
+    "sha256":  "0698bbaceccbbbcfb84c5491d27e14272520d54f8c43aa4a33d1f99cc7d52456",
+    "versionCode":  29,
+    "versionName":  "29.0"
 }
