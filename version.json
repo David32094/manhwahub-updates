@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v37/manhwahub-v37.apk",
-    "changelog":  "Mejoras y correcciones de errores",
+    "changelog":  "Migracion final a una sola app MHWA HUB: corrige conexion e imagenes, conserva cuenta, favoritos y progreso, y guia la retirada segura de la instalacion antigua.",
     "sha256":  "e947b98f312f288150a34f9d0e2faf0f1ffa92dd82d2e44a74b0aaaa06e7c3ec",
     "versionCode":  37,
     "versionName":  "37.0"
