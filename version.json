@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "35.0",
-  "apkUrl": "https://github.com/David32094/manhwahub-updates/releases/download/v35/manhwahub-v35.apk",
-  "sha256": "09d284d50b7d289a27a79c523babf640df75927efc5e128a60e2c32a0f9ef0af",
-  "changelog": "Migración segura a MHWA Nueva: corrige conexión e imágenes de portadas, capítulos y Actualizaciones; agrega recuperación de contraseña por código. Se instala junto a la app anterior para conservar su sesión y datos hasta confirmar el acceso."
+  "versionCode": 34,
+  "versionName": "34.0",
+  "apkUrl": "https://github.com/David32094/manhwahub-updates/releases/download/v34/manhwahub-v34.apk",
+  "sha256": "3d291638bb93c06c0d222f0cafcf9646609da432f33e2e1e3461f0dca16de5b9",
+  "changelog": "Expansión de la red de Cloudflare a más países para lograr una mayor conectividad y velocidad de conexión. Se eliminaron las caídas de servidor, especialmente en México, y se solucionaron otros errores menores para usuarios en Norteamérica."
 }
