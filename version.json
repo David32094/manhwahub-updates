@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "34.0",
-  "apkUrl": "https://github.com/David32094/manhwahub-updates/releases/download/v34/manhwahub-v34.apk",
-  "sha256": "3d291638bb93c06c0d222f0cafcf9646609da432f33e2e1e3461f0dca16de5b9",
-  "changelog": "Expansión de la red de Cloudflare a más países para lograr una mayor conectividad y velocidad de conexión. Se eliminaron las caídas de servidor, especialmente en México, y se solucionaron otros errores menores para usuarios en Norteamérica."
+    "apkUrl":  "https://github.com/David32094/manhwahub-updates/releases/download/v37/manhwahub-v37.apk",
+    "changelog":  "Mejoras y correcciones de errores",
+    "sha256":  "00b976eedcce2656491fe4362fa592348b72bcc410de6fe906038ea9490b0707",
+    "versionCode":  37,
+    "versionName":  "37.0"
 }
